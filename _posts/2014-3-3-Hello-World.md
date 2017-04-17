@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blank Canvassing - Week one at Metis DS Bootcamp 
+title: Blank Canvassing -  Week one at Metis DS Bootcamp 
 ---
 This week at Metis we looked at [MTA data](http://web.mta.info/developers/turnstile.html) and moved from green to clean, or, rather, cleaner. For a group of novices with disparate backgrounds this was no simple task and certainly not one we imagined we would finish in five days. But we did! We survived and managed to pull of actual presentations, with actual graphs of actual data! But more importantly, we learned. A lot. And, for the rest of this post, I will share a small portion of this weeks take aways!  
 
