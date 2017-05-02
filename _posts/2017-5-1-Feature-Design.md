@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blank Canvassing 
+title: Feature Design 
 ---
 ## **This Week at that Data Science Crash Course**
 ----
