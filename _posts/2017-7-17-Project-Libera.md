@@ -33,7 +33,9 @@ The user's account is linked to a SQL database that I hope to one day use for co
 
 Libera was clearly designed with my interests and my use in mind. But I also wanted to make somethitn that was flexible enough to be repurposed for others' needs. I hosted my code on [github](https://www.github.com/paulfblack) and included the flask app I used for hand classification. To reinitialize on a new topic you just need to find some blogs related to a certain topic and keep collecting and labelling data until you can train a classificaiton model on it.  
   
-When training the model I prioritized precision on posts classified as related. This protects the user from seeing really unrelated recommendations, but can come at the loss of some good content. As far as the machine learning techniques, they can be used as is, but it is always best to compare different methods and not to assume that what works for one data set will work for another. I am still working on getting some details worked out on the back end, but I hope one day to return to the beginning and see if I can't get this up and running for all of my interests, maybe even munchkin cats.
+When training the model I prioritized precision on posts classified as related. This protects the user from seeing really unrelated recommendations, but can come at the loss of some good content. As far as the machine learning techniques, they can be used as is, but it is always best to compare different methods and not to assume that what works for one data set will work for another.  
+  
+I am still working on getting some details worked out on the back end, but I hope one day to return to the beginning and see if I can't get this up and running for all of my interests, maybe even munchkin cats.
 
 ## What I Learned  
   
